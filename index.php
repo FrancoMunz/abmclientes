@@ -136,7 +136,7 @@ if ($_POST) {
                     </div>
                 </form>
             </div>
-            <div class="col-8">
+            <div class="col-8 text-center">
                 <table class="table table-hover border">
                     <tr>
                         <th>Imagen</th>
