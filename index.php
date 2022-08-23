@@ -132,7 +132,7 @@ if ($_POST) {
                     </div>
                     <div>
                         <button type="submit" class="btn btn-success">Guardar</button>
-                        <a href="index.php" class="btn btn-primary my-2">Nuevo</a>
+                        <a href="index.php" class="btn btn-warning my-2">Nuevo</a>
                     </div>
                 </form>
             </div>
